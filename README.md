@@ -29,3 +29,13 @@ Overall, the Personal Portfolio Website serves as a professional online presence
 * Live Server (VS Code Extension)
 
 ## OUTPUT:
+
+<img width="1600" height="759" alt="Image" src="https://github.com/user-attachments/assets/77dc2f30-8455-4022-ade9-c9595d044ab0" />
+
+<img width="1600" height="753" alt="Image" src="https://github.com/user-attachments/assets/bc92dca8-42d8-4eeb-8107-c66772adc8b6" />
+
+<img width="1600" height="753" alt="Image" src="https://github.com/user-attachments/assets/b6b4b4f4-3223-4577-9c02-bfbb3e64f839" />
+
+<img width="1600" height="755" alt="Image" src="https://github.com/user-attachments/assets/c26f9289-41c3-47db-bbf5-1dc0c03eb1b6" />
+
+<img width="1600" height="759" alt="Image" src="https://github.com/user-attachments/assets/97e2387a-7038-457e-aa9b-c6017f9a6372" />
